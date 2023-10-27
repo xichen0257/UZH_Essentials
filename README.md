@@ -1,7 +1,8 @@
 # Experiment on Enhancing Image Captioning with Entity-Enriched Queries
 
 ## Introduction
-This repository documents an experiment in text-to-image matching using the SBU Captioned Photo Dataset and the CLIP model. The experiment aims to explore the impact of Named Entity Recognition (NER) on image retrieval accuracy.
+This repository documents an experiment aimed at enhancing image captioning with entity-enriched queries. The primary objective is to assess whether incorporating named entities within textual queries can improve the accuracy of image captions and retrieval. The study utilizes the SBU Captioned Photo Dataset and measures the impact of entity-enriched queries using the CLIP (Contrastive Language-Image Pretraining) model for text-to-image matching.
+This experiment is conducted as part of the 'Essentials of Text and Speech Processing' course at UZH.
 
 ## Data Set
 We used the SBU Captioned Photo Dataset, sourced from Flickr. This dataset features image-caption pairs known for their visual relevance, making it ideal for our research.
